@@ -1,0 +1,127 @@
+{
+  "id": "1",
+  "name": "UroProbiotic",
+  "template": "vibrante",
+  "headline": "¡Dile Adiós a las Molestias Urinarias!",
+  "subheadline": "La fórmula natural avanzada que restaura tu equilibrio sin efectos secundarios.",
+  "price": 89.99,
+  "oldPrice": 149.99,
+  "description": "Recupera tu libertad con nuestra mezcla exclusiva de probióticos.",
+  "benefits": [
+    "Acción Rápida",
+    "100% Natural",
+    "Garantía 30 días"
+  ],
+  "productImage": "https://images.unsplash.com/photo-1626285861696-9f0bf5a49c6d?auto=format&fit=crop&q=80&w=800",
+  "heroImageSize": "square",
+  "imageAssets": [
+    "https://images.unsplash.com/photo-1626285861696-9f0bf5a49c6d?auto=format&fit=crop&q=80&w=800"
+  ],
+  "videoAssets": [],
+  "status": "Borrador",
+  "date": "24 dic",
+  "visits": 0,
+  "conversions": 0,
+  "promoText": "🚀 ENVÍO GRATIS HOY - ÚLTIMAS UNIDADES - DESCUENTO DEL 50% YA APLICADO",
+  "ctaText": "Comprar Ahora",
+  "ctaUrl": "https://wa.me/1234567890",
+  "countdownMinutes": 10,
+  "showVideo": true,
+  "videoUrl": "https://res.cloudinary.com/drujpdzts/video/upload/f_auto,q_auto/d815d84e-74ce-441f-a6e4-f1ea02361bd7",
+  "videoAutoPlay": true,
+  "videoLoop": true,
+  "videoMuted": true,
+  "videoControls": false,
+  "videoAspectRatio": "16/9",
+  "urgencyText": "🔥 ¡OFERTA LIMITADA!",
+  "urgencyStock": 12,
+  "showUrgencyBlock": true,
+  "showBundles": true,
+  "bundles": [
+    {
+      "id": "b1",
+      "name": "Pack Individual",
+      "quantity": 1,
+      "price": 89.99,
+      "isPopular": false
+    },
+    {
+      "id": "b2",
+      "name": "Pack Tratamiento",
+      "quantity": 3,
+      "price": 199.99,
+      "isPopular": true
+    }
+  ],
+  "showPromoBanner": true,
+  "showStickyCTA": true,
+  "showCountdown": true,
+  "showReviews": true,
+  "showFAQ": true,
+  "showGallery": true,
+  "showComparison": true,
+  "showTrust": true,
+  "sectionOrder": [
+    "hero",
+    "video",
+    "gallery",
+    "urgency",
+    "bundles",
+    "countdown",
+    "comparison",
+    "offer",
+    "reviews",
+    "faq",
+    "trust"
+  ],
+  "reviews": [
+    {
+      "name": "Maria Garcia",
+      "rating": 5,
+      "comment": "Increíble producto, me cambió la vida en solo una semana.",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Es seguro?",
+      "answer": "Sí, es 100% natural y probado clínicamente."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "https://images.unsplash.com/photo-1550573104-1262d4e73809?auto=format&fit=crop&q=80&w=400",
+      "title": "Certificado",
+      "desc": "Pureza garantizada."
+    }
+  ],
+  "comparisons": [
+    {
+      "feature": "Natural",
+      "us": true,
+      "them": false
+    },
+    {
+      "feature": "Sin Químicos",
+      "us": true,
+      "them": false
+    }
+  ],
+  "trustItems": [
+    {
+      "icon": "truck",
+      "title": "ENVÍO GRATIS",
+      "subtitle": "A todo el país"
+    },
+    {
+      "icon": "shield",
+      "title": "PAGO SEGURO",
+      "subtitle": "Encriptado SSL"
+    },
+    {
+      "icon": "refresh",
+      "title": "GARANTÍA",
+      "subtitle": "30 días de prueba"
+    }
+  ]
+}
